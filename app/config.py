@@ -1,0 +1,2 @@
+HOST = "192.168.0.10"  # IP do seu 3DS
+PORT = 8000
